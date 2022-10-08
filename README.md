@@ -1,10 +1,13 @@
 # Stock-Market-Analysis
 Task:
+
 -> Firstly, screen the companies and visualise them according to sub-sectors using a pie chart
 or a bar charts.
+
 -> Secondly, visualise the companies by segregating them according to Market Cap in
 three categories: Large Cap(>20,000 crore), Mid Cap (5,000 to 20,000 crore) & 
 Small Cap(<5,000).
+
 -> Thirdly, pick 10 random companies from the entire group and visualise the following
 through a line chart
 Find the Intrinsic Value of the company based on 3 cases of growth (g): Assume
